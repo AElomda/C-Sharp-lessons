@@ -1,0 +1,15 @@
+D:\C#\Boolean-004\Boolean-004\bin\Debug\net6.0\Boolean-004.exe
+D:\C#\Boolean-004\Boolean-004\bin\Debug\net6.0\Boolean-004.deps.json
+D:\C#\Boolean-004\Boolean-004\bin\Debug\net6.0\Boolean-004.runtimeconfig.json
+D:\C#\Boolean-004\Boolean-004\bin\Debug\net6.0\Boolean-004.dll
+D:\C#\Boolean-004\Boolean-004\bin\Debug\net6.0\Boolean-004.pdb
+D:\C#\Boolean-004\Boolean-004\obj\Debug\net6.0\Boolean-004.csproj.AssemblyReference.cache
+D:\C#\Boolean-004\Boolean-004\obj\Debug\net6.0\Boolean-004.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Boolean-004\Boolean-004\obj\Debug\net6.0\Boolean-004.AssemblyInfoInputs.cache
+D:\C#\Boolean-004\Boolean-004\obj\Debug\net6.0\Boolean-004.AssemblyInfo.cs
+D:\C#\Boolean-004\Boolean-004\obj\Debug\net6.0\Boolean-004.csproj.CoreCompileInputs.cache
+D:\C#\Boolean-004\Boolean-004\obj\Debug\net6.0\Boolean-004.dll
+D:\C#\Boolean-004\Boolean-004\obj\Debug\net6.0\refint\Boolean-004.dll
+D:\C#\Boolean-004\Boolean-004\obj\Debug\net6.0\Boolean-004.pdb
+D:\C#\Boolean-004\Boolean-004\obj\Debug\net6.0\Boolean-004.genruntimeconfig.cache
+D:\C#\Boolean-004\Boolean-004\obj\Debug\net6.0\ref\Boolean-004.dll

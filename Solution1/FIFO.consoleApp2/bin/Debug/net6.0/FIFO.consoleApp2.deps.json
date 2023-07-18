@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FIFO.consoleApp2/1.0.0": {
+        "runtime": {
+          "FIFO.consoleApp2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FIFO.consoleApp2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

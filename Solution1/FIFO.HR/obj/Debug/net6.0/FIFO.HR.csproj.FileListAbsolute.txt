@@ -1,0 +1,12 @@
+D:\C#\Solution1\FIFO.HR\bin\Debug\net6.0\FIFO.HR.deps.json
+D:\C#\Solution1\FIFO.HR\bin\Debug\net6.0\FIFO.HR.dll
+D:\C#\Solution1\FIFO.HR\bin\Debug\net6.0\FIFO.HR.pdb
+D:\C#\Solution1\FIFO.HR\obj\Debug\net6.0\FIFO.HR.csproj.AssemblyReference.cache
+D:\C#\Solution1\FIFO.HR\obj\Debug\net6.0\FIFO.HR.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Solution1\FIFO.HR\obj\Debug\net6.0\FIFO.HR.AssemblyInfoInputs.cache
+D:\C#\Solution1\FIFO.HR\obj\Debug\net6.0\FIFO.HR.AssemblyInfo.cs
+D:\C#\Solution1\FIFO.HR\obj\Debug\net6.0\FIFO.HR.csproj.CoreCompileInputs.cache
+D:\C#\Solution1\FIFO.HR\obj\Debug\net6.0\FIFO.HR.dll
+D:\C#\Solution1\FIFO.HR\obj\Debug\net6.0\refint\FIFO.HR.dll
+D:\C#\Solution1\FIFO.HR\obj\Debug\net6.0\FIFO.HR.pdb
+D:\C#\Solution1\FIFO.HR\obj\Debug\net6.0\ref\FIFO.HR.dll

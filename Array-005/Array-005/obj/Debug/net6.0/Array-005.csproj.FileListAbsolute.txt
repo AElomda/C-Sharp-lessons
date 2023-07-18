@@ -1,0 +1,15 @@
+D:\C#\Array-005\Array-005\bin\Debug\net6.0\Array-005.exe
+D:\C#\Array-005\Array-005\bin\Debug\net6.0\Array-005.deps.json
+D:\C#\Array-005\Array-005\bin\Debug\net6.0\Array-005.runtimeconfig.json
+D:\C#\Array-005\Array-005\bin\Debug\net6.0\Array-005.dll
+D:\C#\Array-005\Array-005\bin\Debug\net6.0\Array-005.pdb
+D:\C#\Array-005\Array-005\obj\Debug\net6.0\Array-005.csproj.AssemblyReference.cache
+D:\C#\Array-005\Array-005\obj\Debug\net6.0\Array-005.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Array-005\Array-005\obj\Debug\net6.0\Array-005.AssemblyInfoInputs.cache
+D:\C#\Array-005\Array-005\obj\Debug\net6.0\Array-005.AssemblyInfo.cs
+D:\C#\Array-005\Array-005\obj\Debug\net6.0\Array-005.csproj.CoreCompileInputs.cache
+D:\C#\Array-005\Array-005\obj\Debug\net6.0\Array-005.dll
+D:\C#\Array-005\Array-005\obj\Debug\net6.0\refint\Array-005.dll
+D:\C#\Array-005\Array-005\obj\Debug\net6.0\Array-005.pdb
+D:\C#\Array-005\Array-005\obj\Debug\net6.0\Array-005.genruntimeconfig.cache
+D:\C#\Array-005\Array-005\obj\Debug\net6.0\ref\Array-005.dll

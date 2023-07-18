@@ -1,0 +1,15 @@
+D:\C#\Solution1\FIFO.consoleApp2\bin\Debug\net6.0\FIFO.consoleApp2.exe
+D:\C#\Solution1\FIFO.consoleApp2\bin\Debug\net6.0\FIFO.consoleApp2.deps.json
+D:\C#\Solution1\FIFO.consoleApp2\bin\Debug\net6.0\FIFO.consoleApp2.runtimeconfig.json
+D:\C#\Solution1\FIFO.consoleApp2\bin\Debug\net6.0\FIFO.consoleApp2.dll
+D:\C#\Solution1\FIFO.consoleApp2\bin\Debug\net6.0\FIFO.consoleApp2.pdb
+D:\C#\Solution1\FIFO.consoleApp2\obj\Debug\net6.0\FIFO.consoleApp2.csproj.AssemblyReference.cache
+D:\C#\Solution1\FIFO.consoleApp2\obj\Debug\net6.0\FIFO.consoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Solution1\FIFO.consoleApp2\obj\Debug\net6.0\FIFO.consoleApp2.AssemblyInfoInputs.cache
+D:\C#\Solution1\FIFO.consoleApp2\obj\Debug\net6.0\FIFO.consoleApp2.AssemblyInfo.cs
+D:\C#\Solution1\FIFO.consoleApp2\obj\Debug\net6.0\FIFO.consoleApp2.csproj.CoreCompileInputs.cache
+D:\C#\Solution1\FIFO.consoleApp2\obj\Debug\net6.0\FIFO.consoleApp2.dll
+D:\C#\Solution1\FIFO.consoleApp2\obj\Debug\net6.0\refint\FIFO.consoleApp2.dll
+D:\C#\Solution1\FIFO.consoleApp2\obj\Debug\net6.0\FIFO.consoleApp2.pdb
+D:\C#\Solution1\FIFO.consoleApp2\obj\Debug\net6.0\FIFO.consoleApp2.genruntimeconfig.cache
+D:\C#\Solution1\FIFO.consoleApp2\obj\Debug\net6.0\ref\FIFO.consoleApp2.dll
