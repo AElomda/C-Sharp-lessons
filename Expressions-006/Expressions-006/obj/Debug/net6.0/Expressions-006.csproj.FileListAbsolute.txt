@@ -1,0 +1,15 @@
+D:\C#\Expressions-006\Expressions-006\bin\Debug\net6.0\Expressions-006.exe
+D:\C#\Expressions-006\Expressions-006\bin\Debug\net6.0\Expressions-006.deps.json
+D:\C#\Expressions-006\Expressions-006\bin\Debug\net6.0\Expressions-006.runtimeconfig.json
+D:\C#\Expressions-006\Expressions-006\bin\Debug\net6.0\Expressions-006.dll
+D:\C#\Expressions-006\Expressions-006\bin\Debug\net6.0\Expressions-006.pdb
+D:\C#\Expressions-006\Expressions-006\obj\Debug\net6.0\Expressions-006.csproj.AssemblyReference.cache
+D:\C#\Expressions-006\Expressions-006\obj\Debug\net6.0\Expressions-006.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Expressions-006\Expressions-006\obj\Debug\net6.0\Expressions-006.AssemblyInfoInputs.cache
+D:\C#\Expressions-006\Expressions-006\obj\Debug\net6.0\Expressions-006.AssemblyInfo.cs
+D:\C#\Expressions-006\Expressions-006\obj\Debug\net6.0\Expressions-006.csproj.CoreCompileInputs.cache
+D:\C#\Expressions-006\Expressions-006\obj\Debug\net6.0\Expressions-006.dll
+D:\C#\Expressions-006\Expressions-006\obj\Debug\net6.0\refint\Expressions-006.dll
+D:\C#\Expressions-006\Expressions-006\obj\Debug\net6.0\Expressions-006.pdb
+D:\C#\Expressions-006\Expressions-006\obj\Debug\net6.0\Expressions-006.genruntimeconfig.cache
+D:\C#\Expressions-006\Expressions-006\obj\Debug\net6.0\ref\Expressions-006.dll
