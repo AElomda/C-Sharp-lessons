@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kF9rvvIAw3PFAAG85q6DclgZ0IxByZQh1w0zK3YwKR4wCYFHE9RwA6f2URYzvtDXJvG1EaLhLSDfJU2a0pFzhA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Castiing-TypeConversion-007\\Castiing-TypeConversion-007\\Castiing-TypeConversion-007.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elomd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\elomd\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\elomd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\elomd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

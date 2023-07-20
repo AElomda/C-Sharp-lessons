@@ -1,0 +1,15 @@
+D:\C#\Castiing-TypeConversion-007\Castiing-TypeConversion-007\bin\Debug\net6.0\Castiing-TypeConversion-007.exe
+D:\C#\Castiing-TypeConversion-007\Castiing-TypeConversion-007\bin\Debug\net6.0\Castiing-TypeConversion-007.deps.json
+D:\C#\Castiing-TypeConversion-007\Castiing-TypeConversion-007\bin\Debug\net6.0\Castiing-TypeConversion-007.runtimeconfig.json
+D:\C#\Castiing-TypeConversion-007\Castiing-TypeConversion-007\bin\Debug\net6.0\Castiing-TypeConversion-007.dll
+D:\C#\Castiing-TypeConversion-007\Castiing-TypeConversion-007\bin\Debug\net6.0\Castiing-TypeConversion-007.pdb
+D:\C#\Castiing-TypeConversion-007\Castiing-TypeConversion-007\obj\Debug\net6.0\Castiing-TypeConversion-007.csproj.AssemblyReference.cache
+D:\C#\Castiing-TypeConversion-007\Castiing-TypeConversion-007\obj\Debug\net6.0\Castiing-TypeConversion-007.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Castiing-TypeConversion-007\Castiing-TypeConversion-007\obj\Debug\net6.0\Castiing-TypeConversion-007.AssemblyInfoInputs.cache
+D:\C#\Castiing-TypeConversion-007\Castiing-TypeConversion-007\obj\Debug\net6.0\Castiing-TypeConversion-007.AssemblyInfo.cs
+D:\C#\Castiing-TypeConversion-007\Castiing-TypeConversion-007\obj\Debug\net6.0\Castiing-TypeConversion-007.csproj.CoreCompileInputs.cache
+D:\C#\Castiing-TypeConversion-007\Castiing-TypeConversion-007\obj\Debug\net6.0\Castiing-TypeConversion-007.dll
+D:\C#\Castiing-TypeConversion-007\Castiing-TypeConversion-007\obj\Debug\net6.0\refint\Castiing-TypeConversion-007.dll
+D:\C#\Castiing-TypeConversion-007\Castiing-TypeConversion-007\obj\Debug\net6.0\Castiing-TypeConversion-007.pdb
+D:\C#\Castiing-TypeConversion-007\Castiing-TypeConversion-007\obj\Debug\net6.0\Castiing-TypeConversion-007.genruntimeconfig.cache
+D:\C#\Castiing-TypeConversion-007\Castiing-TypeConversion-007\obj\Debug\net6.0\ref\Castiing-TypeConversion-007.dll
