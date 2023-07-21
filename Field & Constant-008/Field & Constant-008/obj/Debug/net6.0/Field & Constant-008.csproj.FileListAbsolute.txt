@@ -1,0 +1,15 @@
+D:\@First@\C#\Field & Constant-008\Field & Constant-008\bin\Debug\net6.0\Field & Constant-008.exe
+D:\@First@\C#\Field & Constant-008\Field & Constant-008\bin\Debug\net6.0\Field & Constant-008.deps.json
+D:\@First@\C#\Field & Constant-008\Field & Constant-008\bin\Debug\net6.0\Field & Constant-008.runtimeconfig.json
+D:\@First@\C#\Field & Constant-008\Field & Constant-008\bin\Debug\net6.0\Field & Constant-008.dll
+D:\@First@\C#\Field & Constant-008\Field & Constant-008\bin\Debug\net6.0\Field & Constant-008.pdb
+D:\@First@\C#\Field & Constant-008\Field & Constant-008\obj\Debug\net6.0\Field & Constant-008.csproj.AssemblyReference.cache
+D:\@First@\C#\Field & Constant-008\Field & Constant-008\obj\Debug\net6.0\Field & Constant-008.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\Field & Constant-008\Field & Constant-008\obj\Debug\net6.0\Field & Constant-008.AssemblyInfoInputs.cache
+D:\@First@\C#\Field & Constant-008\Field & Constant-008\obj\Debug\net6.0\Field & Constant-008.AssemblyInfo.cs
+D:\@First@\C#\Field & Constant-008\Field & Constant-008\obj\Debug\net6.0\Field & Constant-008.csproj.CoreCompileInputs.cache
+D:\@First@\C#\Field & Constant-008\Field & Constant-008\obj\Debug\net6.0\Field & Constant-008.dll
+D:\@First@\C#\Field & Constant-008\Field & Constant-008\obj\Debug\net6.0\refint\Field & Constant-008.dll
+D:\@First@\C#\Field & Constant-008\Field & Constant-008\obj\Debug\net6.0\Field & Constant-008.pdb
+D:\@First@\C#\Field & Constant-008\Field & Constant-008\obj\Debug\net6.0\Field & Constant-008.genruntimeconfig.cache
+D:\@First@\C#\Field & Constant-008\Field & Constant-008\obj\Debug\net6.0\ref\Field & Constant-008.dll
