@@ -1,0 +1,15 @@
+D:\@First@\C#\Methods__009\Methods__009\bin\Debug\net6.0\Methods__009.exe
+D:\@First@\C#\Methods__009\Methods__009\bin\Debug\net6.0\Methods__009.deps.json
+D:\@First@\C#\Methods__009\Methods__009\bin\Debug\net6.0\Methods__009.runtimeconfig.json
+D:\@First@\C#\Methods__009\Methods__009\bin\Debug\net6.0\Methods__009.dll
+D:\@First@\C#\Methods__009\Methods__009\bin\Debug\net6.0\Methods__009.pdb
+D:\@First@\C#\Methods__009\Methods__009\obj\Debug\net6.0\Methods__009.csproj.AssemblyReference.cache
+D:\@First@\C#\Methods__009\Methods__009\obj\Debug\net6.0\Methods__009.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\Methods__009\Methods__009\obj\Debug\net6.0\Methods__009.AssemblyInfoInputs.cache
+D:\@First@\C#\Methods__009\Methods__009\obj\Debug\net6.0\Methods__009.AssemblyInfo.cs
+D:\@First@\C#\Methods__009\Methods__009\obj\Debug\net6.0\Methods__009.csproj.CoreCompileInputs.cache
+D:\@First@\C#\Methods__009\Methods__009\obj\Debug\net6.0\Methods__009.dll
+D:\@First@\C#\Methods__009\Methods__009\obj\Debug\net6.0\refint\Methods__009.dll
+D:\@First@\C#\Methods__009\Methods__009\obj\Debug\net6.0\Methods__009.pdb
+D:\@First@\C#\Methods__009\Methods__009\obj\Debug\net6.0\Methods__009.genruntimeconfig.cache
+D:\@First@\C#\Methods__009\Methods__009\obj\Debug\net6.0\ref\Methods__009.dll

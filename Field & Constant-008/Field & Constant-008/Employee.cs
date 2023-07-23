@@ -17,7 +17,7 @@ namespace ConsoleApp1
         // ‹AccessModifier> public, private, protected,
         // Constant -> ‹AccessModifier> const <DataType> <ConstantName> = <value>;
 
-        public const double TAX = 0.03;
+        public static double TAX = 0.03;
 
         // ‹AccessModifier> public, private, protected,
         // Fields -> ‹AccessModifier>  <DataType> <FieldsName> = <Initialvalue>
@@ -26,6 +26,25 @@ namespace ConsoleApp1
         public string lName;
         public double wage;
         public double LoggedHours;
+
+
+        private double Calculate() => wage * LoggedHours;
+        private double CalculateTax() => Calculate() * TAX;
+        private double CalculateNet() => Calculate() - CalculateTax();
+
+        public string PtintSlip()
+        {
+            return $"\nFirstName: {fName}" +
+                   $"\nLastNamr: {lName}"+
+                   $"\nWage: {wage}"+
+                   $"\nLoggedHours: {LoggedHours}" +
+                   "--------------------------------"+
+                   $"\nsalary: ${Calculate()}"+
+                   $"\nDeductable Tax ({TAX * 100}%) Amount: ${CalculateTax()}"+
+                   $"\nnetSalay: {CalculateNet()}\n";
+             
+
+         }
 
 
     }
