@@ -1,0 +1,15 @@
+D:\@First@\C#\Constructor--010\Constructor--010\bin\Debug\net6.0\Constructor--010.exe
+D:\@First@\C#\Constructor--010\Constructor--010\bin\Debug\net6.0\Constructor--010.deps.json
+D:\@First@\C#\Constructor--010\Constructor--010\bin\Debug\net6.0\Constructor--010.runtimeconfig.json
+D:\@First@\C#\Constructor--010\Constructor--010\bin\Debug\net6.0\Constructor--010.dll
+D:\@First@\C#\Constructor--010\Constructor--010\bin\Debug\net6.0\Constructor--010.pdb
+D:\@First@\C#\Constructor--010\Constructor--010\obj\Debug\net6.0\Constructor--010.csproj.AssemblyReference.cache
+D:\@First@\C#\Constructor--010\Constructor--010\obj\Debug\net6.0\Constructor--010.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\Constructor--010\Constructor--010\obj\Debug\net6.0\Constructor--010.AssemblyInfoInputs.cache
+D:\@First@\C#\Constructor--010\Constructor--010\obj\Debug\net6.0\Constructor--010.AssemblyInfo.cs
+D:\@First@\C#\Constructor--010\Constructor--010\obj\Debug\net6.0\Constructor--010.csproj.CoreCompileInputs.cache
+D:\@First@\C#\Constructor--010\Constructor--010\obj\Debug\net6.0\Constructor--010.dll
+D:\@First@\C#\Constructor--010\Constructor--010\obj\Debug\net6.0\refint\Constructor--010.dll
+D:\@First@\C#\Constructor--010\Constructor--010\obj\Debug\net6.0\Constructor--010.pdb
+D:\@First@\C#\Constructor--010\Constructor--010\obj\Debug\net6.0\Constructor--010.genruntimeconfig.cache
+D:\@First@\C#\Constructor--010\Constructor--010\obj\Debug\net6.0\ref\Constructor--010.dll
