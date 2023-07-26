@@ -1,0 +1,15 @@
+D:\@First@\C#\Indexers_012\Indexers_012\bin\Debug\net6.0\Indexers_012.exe
+D:\@First@\C#\Indexers_012\Indexers_012\bin\Debug\net6.0\Indexers_012.deps.json
+D:\@First@\C#\Indexers_012\Indexers_012\bin\Debug\net6.0\Indexers_012.runtimeconfig.json
+D:\@First@\C#\Indexers_012\Indexers_012\bin\Debug\net6.0\Indexers_012.dll
+D:\@First@\C#\Indexers_012\Indexers_012\bin\Debug\net6.0\Indexers_012.pdb
+D:\@First@\C#\Indexers_012\Indexers_012\obj\Debug\net6.0\Indexers_012.csproj.AssemblyReference.cache
+D:\@First@\C#\Indexers_012\Indexers_012\obj\Debug\net6.0\Indexers_012.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\Indexers_012\Indexers_012\obj\Debug\net6.0\Indexers_012.AssemblyInfoInputs.cache
+D:\@First@\C#\Indexers_012\Indexers_012\obj\Debug\net6.0\Indexers_012.AssemblyInfo.cs
+D:\@First@\C#\Indexers_012\Indexers_012\obj\Debug\net6.0\Indexers_012.csproj.CoreCompileInputs.cache
+D:\@First@\C#\Indexers_012\Indexers_012\obj\Debug\net6.0\Indexers_012.dll
+D:\@First@\C#\Indexers_012\Indexers_012\obj\Debug\net6.0\refint\Indexers_012.dll
+D:\@First@\C#\Indexers_012\Indexers_012\obj\Debug\net6.0\Indexers_012.pdb
+D:\@First@\C#\Indexers_012\Indexers_012\obj\Debug\net6.0\Indexers_012.genruntimeconfig.cache
+D:\@First@\C#\Indexers_012\Indexers_012\obj\Debug\net6.0\ref\Indexers_012.dll

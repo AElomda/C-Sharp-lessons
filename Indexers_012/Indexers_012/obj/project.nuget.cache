@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tj3/LvXx8NpEVvG2RvTKrLnQ0b3fou06L+gF8jYchNl33WohbyfMwkV98yIATYqhBxLX3FDO1uXwUSrfGgsZWA==",
+  "success": true,
+  "projectFilePath": "D:\\@First@\\C#\\Indexers_012\\Indexers_012\\Indexers_012.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elomd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\elomd\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\elomd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\elomd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
