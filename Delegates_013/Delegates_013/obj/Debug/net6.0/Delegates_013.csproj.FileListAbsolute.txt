@@ -1,0 +1,15 @@
+D:\@First@\C#\Delegates_013\Delegates_013\bin\Debug\net6.0\Delegates_013.exe
+D:\@First@\C#\Delegates_013\Delegates_013\bin\Debug\net6.0\Delegates_013.deps.json
+D:\@First@\C#\Delegates_013\Delegates_013\bin\Debug\net6.0\Delegates_013.runtimeconfig.json
+D:\@First@\C#\Delegates_013\Delegates_013\bin\Debug\net6.0\Delegates_013.dll
+D:\@First@\C#\Delegates_013\Delegates_013\bin\Debug\net6.0\Delegates_013.pdb
+D:\@First@\C#\Delegates_013\Delegates_013\obj\Debug\net6.0\Delegates_013.csproj.AssemblyReference.cache
+D:\@First@\C#\Delegates_013\Delegates_013\obj\Debug\net6.0\Delegates_013.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\Delegates_013\Delegates_013\obj\Debug\net6.0\Delegates_013.AssemblyInfoInputs.cache
+D:\@First@\C#\Delegates_013\Delegates_013\obj\Debug\net6.0\Delegates_013.AssemblyInfo.cs
+D:\@First@\C#\Delegates_013\Delegates_013\obj\Debug\net6.0\Delegates_013.csproj.CoreCompileInputs.cache
+D:\@First@\C#\Delegates_013\Delegates_013\obj\Debug\net6.0\Delegates_013.dll
+D:\@First@\C#\Delegates_013\Delegates_013\obj\Debug\net6.0\refint\Delegates_013.dll
+D:\@First@\C#\Delegates_013\Delegates_013\obj\Debug\net6.0\Delegates_013.pdb
+D:\@First@\C#\Delegates_013\Delegates_013\obj\Debug\net6.0\Delegates_013.genruntimeconfig.cache
+D:\@First@\C#\Delegates_013\Delegates_013\obj\Debug\net6.0\ref\Delegates_013.dll
