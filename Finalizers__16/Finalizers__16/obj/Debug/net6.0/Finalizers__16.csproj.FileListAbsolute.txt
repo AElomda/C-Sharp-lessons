@@ -1,0 +1,15 @@
+D:\@First@\C#\Finalizers__16\Finalizers__16\bin\Debug\net6.0\Finalizers__16.exe
+D:\@First@\C#\Finalizers__16\Finalizers__16\bin\Debug\net6.0\Finalizers__16.deps.json
+D:\@First@\C#\Finalizers__16\Finalizers__16\bin\Debug\net6.0\Finalizers__16.runtimeconfig.json
+D:\@First@\C#\Finalizers__16\Finalizers__16\bin\Debug\net6.0\Finalizers__16.dll
+D:\@First@\C#\Finalizers__16\Finalizers__16\bin\Debug\net6.0\Finalizers__16.pdb
+D:\@First@\C#\Finalizers__16\Finalizers__16\obj\Debug\net6.0\Finalizers__16.csproj.AssemblyReference.cache
+D:\@First@\C#\Finalizers__16\Finalizers__16\obj\Debug\net6.0\Finalizers__16.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\Finalizers__16\Finalizers__16\obj\Debug\net6.0\Finalizers__16.AssemblyInfoInputs.cache
+D:\@First@\C#\Finalizers__16\Finalizers__16\obj\Debug\net6.0\Finalizers__16.AssemblyInfo.cs
+D:\@First@\C#\Finalizers__16\Finalizers__16\obj\Debug\net6.0\Finalizers__16.csproj.CoreCompileInputs.cache
+D:\@First@\C#\Finalizers__16\Finalizers__16\obj\Debug\net6.0\Finalizers__16.dll
+D:\@First@\C#\Finalizers__16\Finalizers__16\obj\Debug\net6.0\refint\Finalizers__16.dll
+D:\@First@\C#\Finalizers__16\Finalizers__16\obj\Debug\net6.0\Finalizers__16.pdb
+D:\@First@\C#\Finalizers__16\Finalizers__16\obj\Debug\net6.0\Finalizers__16.genruntimeconfig.cache
+D:\@First@\C#\Finalizers__16\Finalizers__16\obj\Debug\net6.0\ref\Finalizers__16.dll
