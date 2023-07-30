@@ -1,0 +1,15 @@
+D:\@First@\C#\Nested__17\Nested__17\bin\Debug\net6.0\Nested__17.exe
+D:\@First@\C#\Nested__17\Nested__17\bin\Debug\net6.0\Nested__17.deps.json
+D:\@First@\C#\Nested__17\Nested__17\bin\Debug\net6.0\Nested__17.runtimeconfig.json
+D:\@First@\C#\Nested__17\Nested__17\bin\Debug\net6.0\Nested__17.dll
+D:\@First@\C#\Nested__17\Nested__17\bin\Debug\net6.0\Nested__17.pdb
+D:\@First@\C#\Nested__17\Nested__17\obj\Debug\net6.0\Nested__17.csproj.AssemblyReference.cache
+D:\@First@\C#\Nested__17\Nested__17\obj\Debug\net6.0\Nested__17.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\Nested__17\Nested__17\obj\Debug\net6.0\Nested__17.AssemblyInfoInputs.cache
+D:\@First@\C#\Nested__17\Nested__17\obj\Debug\net6.0\Nested__17.AssemblyInfo.cs
+D:\@First@\C#\Nested__17\Nested__17\obj\Debug\net6.0\Nested__17.csproj.CoreCompileInputs.cache
+D:\@First@\C#\Nested__17\Nested__17\obj\Debug\net6.0\Nested__17.dll
+D:\@First@\C#\Nested__17\Nested__17\obj\Debug\net6.0\refint\Nested__17.dll
+D:\@First@\C#\Nested__17\Nested__17\obj\Debug\net6.0\Nested__17.pdb
+D:\@First@\C#\Nested__17\Nested__17\obj\Debug\net6.0\Nested__17.genruntimeconfig.cache
+D:\@First@\C#\Nested__17\Nested__17\obj\Debug\net6.0\ref\Nested__17.dll
