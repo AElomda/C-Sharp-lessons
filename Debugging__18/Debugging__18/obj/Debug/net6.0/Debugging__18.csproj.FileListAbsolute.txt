@@ -1,0 +1,15 @@
+D:\@First@\C#\Debugging__18\Debugging__18\bin\Debug\net6.0\Debugging__18.exe
+D:\@First@\C#\Debugging__18\Debugging__18\bin\Debug\net6.0\Debugging__18.deps.json
+D:\@First@\C#\Debugging__18\Debugging__18\bin\Debug\net6.0\Debugging__18.runtimeconfig.json
+D:\@First@\C#\Debugging__18\Debugging__18\bin\Debug\net6.0\Debugging__18.dll
+D:\@First@\C#\Debugging__18\Debugging__18\bin\Debug\net6.0\Debugging__18.pdb
+D:\@First@\C#\Debugging__18\Debugging__18\obj\Debug\net6.0\Debugging__18.csproj.AssemblyReference.cache
+D:\@First@\C#\Debugging__18\Debugging__18\obj\Debug\net6.0\Debugging__18.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\Debugging__18\Debugging__18\obj\Debug\net6.0\Debugging__18.AssemblyInfoInputs.cache
+D:\@First@\C#\Debugging__18\Debugging__18\obj\Debug\net6.0\Debugging__18.AssemblyInfo.cs
+D:\@First@\C#\Debugging__18\Debugging__18\obj\Debug\net6.0\Debugging__18.csproj.CoreCompileInputs.cache
+D:\@First@\C#\Debugging__18\Debugging__18\obj\Debug\net6.0\Debugging__18.dll
+D:\@First@\C#\Debugging__18\Debugging__18\obj\Debug\net6.0\refint\Debugging__18.dll
+D:\@First@\C#\Debugging__18\Debugging__18\obj\Debug\net6.0\Debugging__18.pdb
+D:\@First@\C#\Debugging__18\Debugging__18\obj\Debug\net6.0\Debugging__18.genruntimeconfig.cache
+D:\@First@\C#\Debugging__18\Debugging__18\obj\Debug\net6.0\ref\Debugging__18.dll
