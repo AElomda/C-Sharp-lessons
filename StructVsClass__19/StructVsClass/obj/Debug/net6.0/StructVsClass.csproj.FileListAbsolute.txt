@@ -1,0 +1,15 @@
+D:\@First@\C#\StructVsClass\StructVsClass\bin\Debug\net6.0\StructVsClass.exe
+D:\@First@\C#\StructVsClass\StructVsClass\bin\Debug\net6.0\StructVsClass.deps.json
+D:\@First@\C#\StructVsClass\StructVsClass\bin\Debug\net6.0\StructVsClass.runtimeconfig.json
+D:\@First@\C#\StructVsClass\StructVsClass\bin\Debug\net6.0\StructVsClass.dll
+D:\@First@\C#\StructVsClass\StructVsClass\bin\Debug\net6.0\StructVsClass.pdb
+D:\@First@\C#\StructVsClass\StructVsClass\obj\Debug\net6.0\StructVsClass.csproj.AssemblyReference.cache
+D:\@First@\C#\StructVsClass\StructVsClass\obj\Debug\net6.0\StructVsClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\StructVsClass\StructVsClass\obj\Debug\net6.0\StructVsClass.AssemblyInfoInputs.cache
+D:\@First@\C#\StructVsClass\StructVsClass\obj\Debug\net6.0\StructVsClass.AssemblyInfo.cs
+D:\@First@\C#\StructVsClass\StructVsClass\obj\Debug\net6.0\StructVsClass.csproj.CoreCompileInputs.cache
+D:\@First@\C#\StructVsClass\StructVsClass\obj\Debug\net6.0\StructVsClass.dll
+D:\@First@\C#\StructVsClass\StructVsClass\obj\Debug\net6.0\refint\StructVsClass.dll
+D:\@First@\C#\StructVsClass\StructVsClass\obj\Debug\net6.0\StructVsClass.pdb
+D:\@First@\C#\StructVsClass\StructVsClass\obj\Debug\net6.0\StructVsClass.genruntimeconfig.cache
+D:\@First@\C#\StructVsClass\StructVsClass\obj\Debug\net6.0\ref\StructVsClass.dll
