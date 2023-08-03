@@ -1,0 +1,15 @@
+D:\@First@\C#\Inheritance__21\Inheritance__21\bin\Debug\net6.0\Inheritance__21.exe
+D:\@First@\C#\Inheritance__21\Inheritance__21\bin\Debug\net6.0\Inheritance__21.deps.json
+D:\@First@\C#\Inheritance__21\Inheritance__21\bin\Debug\net6.0\Inheritance__21.runtimeconfig.json
+D:\@First@\C#\Inheritance__21\Inheritance__21\bin\Debug\net6.0\Inheritance__21.dll
+D:\@First@\C#\Inheritance__21\Inheritance__21\bin\Debug\net6.0\Inheritance__21.pdb
+D:\@First@\C#\Inheritance__21\Inheritance__21\obj\Debug\net6.0\Inheritance__21.csproj.AssemblyReference.cache
+D:\@First@\C#\Inheritance__21\Inheritance__21\obj\Debug\net6.0\Inheritance__21.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\Inheritance__21\Inheritance__21\obj\Debug\net6.0\Inheritance__21.AssemblyInfoInputs.cache
+D:\@First@\C#\Inheritance__21\Inheritance__21\obj\Debug\net6.0\Inheritance__21.AssemblyInfo.cs
+D:\@First@\C#\Inheritance__21\Inheritance__21\obj\Debug\net6.0\Inheritance__21.csproj.CoreCompileInputs.cache
+D:\@First@\C#\Inheritance__21\Inheritance__21\obj\Debug\net6.0\Inheritance__21.dll
+D:\@First@\C#\Inheritance__21\Inheritance__21\obj\Debug\net6.0\refint\Inheritance__21.dll
+D:\@First@\C#\Inheritance__21\Inheritance__21\obj\Debug\net6.0\Inheritance__21.pdb
+D:\@First@\C#\Inheritance__21\Inheritance__21\obj\Debug\net6.0\Inheritance__21.genruntimeconfig.cache
+D:\@First@\C#\Inheritance__21\Inheritance__21\obj\Debug\net6.0\ref\Inheritance__21.dll
