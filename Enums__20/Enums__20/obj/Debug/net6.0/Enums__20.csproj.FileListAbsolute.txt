@@ -1,0 +1,15 @@
+D:\@First@\C#\Enums__20\Enums__20\bin\Debug\net6.0\Enums__20.exe
+D:\@First@\C#\Enums__20\Enums__20\bin\Debug\net6.0\Enums__20.deps.json
+D:\@First@\C#\Enums__20\Enums__20\bin\Debug\net6.0\Enums__20.runtimeconfig.json
+D:\@First@\C#\Enums__20\Enums__20\bin\Debug\net6.0\Enums__20.dll
+D:\@First@\C#\Enums__20\Enums__20\bin\Debug\net6.0\Enums__20.pdb
+D:\@First@\C#\Enums__20\Enums__20\obj\Debug\net6.0\Enums__20.csproj.AssemblyReference.cache
+D:\@First@\C#\Enums__20\Enums__20\obj\Debug\net6.0\Enums__20.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\Enums__20\Enums__20\obj\Debug\net6.0\Enums__20.AssemblyInfoInputs.cache
+D:\@First@\C#\Enums__20\Enums__20\obj\Debug\net6.0\Enums__20.AssemblyInfo.cs
+D:\@First@\C#\Enums__20\Enums__20\obj\Debug\net6.0\Enums__20.csproj.CoreCompileInputs.cache
+D:\@First@\C#\Enums__20\Enums__20\obj\Debug\net6.0\Enums__20.dll
+D:\@First@\C#\Enums__20\Enums__20\obj\Debug\net6.0\refint\Enums__20.dll
+D:\@First@\C#\Enums__20\Enums__20\obj\Debug\net6.0\Enums__20.pdb
+D:\@First@\C#\Enums__20\Enums__20\obj\Debug\net6.0\Enums__20.genruntimeconfig.cache
+D:\@First@\C#\Enums__20\Enums__20\obj\Debug\net6.0\ref\Enums__20.dll
