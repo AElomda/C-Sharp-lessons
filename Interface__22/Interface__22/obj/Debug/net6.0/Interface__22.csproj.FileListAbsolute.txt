@@ -1,0 +1,15 @@
+D:\@First@\C#\Interface\Interface__22\bin\Debug\net6.0\Interface__22.exe
+D:\@First@\C#\Interface\Interface__22\bin\Debug\net6.0\Interface__22.deps.json
+D:\@First@\C#\Interface\Interface__22\bin\Debug\net6.0\Interface__22.runtimeconfig.json
+D:\@First@\C#\Interface\Interface__22\bin\Debug\net6.0\Interface__22.dll
+D:\@First@\C#\Interface\Interface__22\bin\Debug\net6.0\Interface__22.pdb
+D:\@First@\C#\Interface\Interface__22\obj\Debug\net6.0\Interface__22.csproj.AssemblyReference.cache
+D:\@First@\C#\Interface\Interface__22\obj\Debug\net6.0\Interface__22.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\Interface\Interface__22\obj\Debug\net6.0\Interface__22.AssemblyInfoInputs.cache
+D:\@First@\C#\Interface\Interface__22\obj\Debug\net6.0\Interface__22.AssemblyInfo.cs
+D:\@First@\C#\Interface\Interface__22\obj\Debug\net6.0\Interface__22.csproj.CoreCompileInputs.cache
+D:\@First@\C#\Interface\Interface__22\obj\Debug\net6.0\Interface__22.dll
+D:\@First@\C#\Interface\Interface__22\obj\Debug\net6.0\refint\Interface__22.dll
+D:\@First@\C#\Interface\Interface__22\obj\Debug\net6.0\Interface__22.pdb
+D:\@First@\C#\Interface\Interface__22\obj\Debug\net6.0\Interface__22.genruntimeconfig.cache
+D:\@First@\C#\Interface\Interface__22\obj\Debug\net6.0\ref\Interface__22.dll
