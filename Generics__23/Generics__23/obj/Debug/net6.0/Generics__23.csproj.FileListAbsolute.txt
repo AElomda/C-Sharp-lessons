@@ -1,0 +1,15 @@
+D:\@First@\C#\Generics__23\Generics__23\bin\Debug\net6.0\Generics__23.exe
+D:\@First@\C#\Generics__23\Generics__23\bin\Debug\net6.0\Generics__23.deps.json
+D:\@First@\C#\Generics__23\Generics__23\bin\Debug\net6.0\Generics__23.runtimeconfig.json
+D:\@First@\C#\Generics__23\Generics__23\bin\Debug\net6.0\Generics__23.dll
+D:\@First@\C#\Generics__23\Generics__23\bin\Debug\net6.0\Generics__23.pdb
+D:\@First@\C#\Generics__23\Generics__23\obj\Debug\net6.0\Generics__23.csproj.AssemblyReference.cache
+D:\@First@\C#\Generics__23\Generics__23\obj\Debug\net6.0\Generics__23.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\Generics__23\Generics__23\obj\Debug\net6.0\Generics__23.AssemblyInfoInputs.cache
+D:\@First@\C#\Generics__23\Generics__23\obj\Debug\net6.0\Generics__23.AssemblyInfo.cs
+D:\@First@\C#\Generics__23\Generics__23\obj\Debug\net6.0\Generics__23.csproj.CoreCompileInputs.cache
+D:\@First@\C#\Generics__23\Generics__23\obj\Debug\net6.0\Generics__23.dll
+D:\@First@\C#\Generics__23\Generics__23\obj\Debug\net6.0\refint\Generics__23.dll
+D:\@First@\C#\Generics__23\Generics__23\obj\Debug\net6.0\Generics__23.pdb
+D:\@First@\C#\Generics__23\Generics__23\obj\Debug\net6.0\Generics__23.genruntimeconfig.cache
+D:\@First@\C#\Generics__23\Generics__23\obj\Debug\net6.0\ref\Generics__23.dll
