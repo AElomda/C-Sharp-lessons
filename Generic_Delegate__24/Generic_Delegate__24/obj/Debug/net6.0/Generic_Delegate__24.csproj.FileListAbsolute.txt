@@ -1,0 +1,15 @@
+D:\@First@\C#\Generic_Delegate__24\Generic_Delegate__24\bin\Debug\net6.0\Generic_Delegate__24.exe
+D:\@First@\C#\Generic_Delegate__24\Generic_Delegate__24\bin\Debug\net6.0\Generic_Delegate__24.deps.json
+D:\@First@\C#\Generic_Delegate__24\Generic_Delegate__24\bin\Debug\net6.0\Generic_Delegate__24.runtimeconfig.json
+D:\@First@\C#\Generic_Delegate__24\Generic_Delegate__24\bin\Debug\net6.0\Generic_Delegate__24.dll
+D:\@First@\C#\Generic_Delegate__24\Generic_Delegate__24\bin\Debug\net6.0\Generic_Delegate__24.pdb
+D:\@First@\C#\Generic_Delegate__24\Generic_Delegate__24\obj\Debug\net6.0\Generic_Delegate__24.csproj.AssemblyReference.cache
+D:\@First@\C#\Generic_Delegate__24\Generic_Delegate__24\obj\Debug\net6.0\Generic_Delegate__24.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\Generic_Delegate__24\Generic_Delegate__24\obj\Debug\net6.0\Generic_Delegate__24.AssemblyInfoInputs.cache
+D:\@First@\C#\Generic_Delegate__24\Generic_Delegate__24\obj\Debug\net6.0\Generic_Delegate__24.AssemblyInfo.cs
+D:\@First@\C#\Generic_Delegate__24\Generic_Delegate__24\obj\Debug\net6.0\Generic_Delegate__24.csproj.CoreCompileInputs.cache
+D:\@First@\C#\Generic_Delegate__24\Generic_Delegate__24\obj\Debug\net6.0\Generic_Delegate__24.dll
+D:\@First@\C#\Generic_Delegate__24\Generic_Delegate__24\obj\Debug\net6.0\refint\Generic_Delegate__24.dll
+D:\@First@\C#\Generic_Delegate__24\Generic_Delegate__24\obj\Debug\net6.0\Generic_Delegate__24.pdb
+D:\@First@\C#\Generic_Delegate__24\Generic_Delegate__24\obj\Debug\net6.0\Generic_Delegate__24.genruntimeconfig.cache
+D:\@First@\C#\Generic_Delegate__24\Generic_Delegate__24\obj\Debug\net6.0\ref\Generic_Delegate__24.dll
