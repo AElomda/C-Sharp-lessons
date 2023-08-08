@@ -1,0 +1,15 @@
+D:\@First@\C#\25__Exceptions\25__Exceptions\bin\Debug\net6.0\25__Exceptions.exe
+D:\@First@\C#\25__Exceptions\25__Exceptions\bin\Debug\net6.0\25__Exceptions.deps.json
+D:\@First@\C#\25__Exceptions\25__Exceptions\bin\Debug\net6.0\25__Exceptions.runtimeconfig.json
+D:\@First@\C#\25__Exceptions\25__Exceptions\bin\Debug\net6.0\25__Exceptions.dll
+D:\@First@\C#\25__Exceptions\25__Exceptions\bin\Debug\net6.0\25__Exceptions.pdb
+D:\@First@\C#\25__Exceptions\25__Exceptions\obj\Debug\net6.0\25__Exceptions.csproj.AssemblyReference.cache
+D:\@First@\C#\25__Exceptions\25__Exceptions\obj\Debug\net6.0\25__Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\25__Exceptions\25__Exceptions\obj\Debug\net6.0\25__Exceptions.AssemblyInfoInputs.cache
+D:\@First@\C#\25__Exceptions\25__Exceptions\obj\Debug\net6.0\25__Exceptions.AssemblyInfo.cs
+D:\@First@\C#\25__Exceptions\25__Exceptions\obj\Debug\net6.0\25__Exceptions.csproj.CoreCompileInputs.cache
+D:\@First@\C#\25__Exceptions\25__Exceptions\obj\Debug\net6.0\25__Exceptions.dll
+D:\@First@\C#\25__Exceptions\25__Exceptions\obj\Debug\net6.0\refint\25__Exceptions.dll
+D:\@First@\C#\25__Exceptions\25__Exceptions\obj\Debug\net6.0\25__Exceptions.pdb
+D:\@First@\C#\25__Exceptions\25__Exceptions\obj\Debug\net6.0\25__Exceptions.genruntimeconfig.cache
+D:\@First@\C#\25__Exceptions\25__Exceptions\obj\Debug\net6.0\ref\25__Exceptions.dll
