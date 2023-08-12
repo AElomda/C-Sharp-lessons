@@ -1,0 +1,15 @@
+D:\@First@\C#\27__XML\27__XML\bin\Debug\net6.0\27__XML.exe
+D:\@First@\C#\27__XML\27__XML\bin\Debug\net6.0\27__XML.deps.json
+D:\@First@\C#\27__XML\27__XML\bin\Debug\net6.0\27__XML.runtimeconfig.json
+D:\@First@\C#\27__XML\27__XML\bin\Debug\net6.0\27__XML.dll
+D:\@First@\C#\27__XML\27__XML\bin\Debug\net6.0\27__XML.pdb
+D:\@First@\C#\27__XML\27__XML\obj\Debug\net6.0\27__XML.csproj.AssemblyReference.cache
+D:\@First@\C#\27__XML\27__XML\obj\Debug\net6.0\27__XML.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\27__XML\27__XML\obj\Debug\net6.0\27__XML.AssemblyInfoInputs.cache
+D:\@First@\C#\27__XML\27__XML\obj\Debug\net6.0\27__XML.AssemblyInfo.cs
+D:\@First@\C#\27__XML\27__XML\obj\Debug\net6.0\27__XML.csproj.CoreCompileInputs.cache
+D:\@First@\C#\27__XML\27__XML\obj\Debug\net6.0\27__XML.dll
+D:\@First@\C#\27__XML\27__XML\obj\Debug\net6.0\refint\27__XML.dll
+D:\@First@\C#\27__XML\27__XML\obj\Debug\net6.0\27__XML.pdb
+D:\@First@\C#\27__XML\27__XML\obj\Debug\net6.0\27__XML.genruntimeconfig.cache
+D:\@First@\C#\27__XML\27__XML\obj\Debug\net6.0\ref\27__XML.dll

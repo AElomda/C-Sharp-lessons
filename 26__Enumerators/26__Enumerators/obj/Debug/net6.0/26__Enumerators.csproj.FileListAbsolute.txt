@@ -1,0 +1,15 @@
+D:\@First@\C#\26__Enumerators\26__Enumerators\bin\Debug\net6.0\26__Enumerators.exe
+D:\@First@\C#\26__Enumerators\26__Enumerators\bin\Debug\net6.0\26__Enumerators.deps.json
+D:\@First@\C#\26__Enumerators\26__Enumerators\bin\Debug\net6.0\26__Enumerators.runtimeconfig.json
+D:\@First@\C#\26__Enumerators\26__Enumerators\bin\Debug\net6.0\26__Enumerators.dll
+D:\@First@\C#\26__Enumerators\26__Enumerators\bin\Debug\net6.0\26__Enumerators.pdb
+D:\@First@\C#\26__Enumerators\26__Enumerators\obj\Debug\net6.0\26__Enumerators.csproj.AssemblyReference.cache
+D:\@First@\C#\26__Enumerators\26__Enumerators\obj\Debug\net6.0\26__Enumerators.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\26__Enumerators\26__Enumerators\obj\Debug\net6.0\26__Enumerators.AssemblyInfoInputs.cache
+D:\@First@\C#\26__Enumerators\26__Enumerators\obj\Debug\net6.0\26__Enumerators.AssemblyInfo.cs
+D:\@First@\C#\26__Enumerators\26__Enumerators\obj\Debug\net6.0\26__Enumerators.csproj.CoreCompileInputs.cache
+D:\@First@\C#\26__Enumerators\26__Enumerators\obj\Debug\net6.0\26__Enumerators.dll
+D:\@First@\C#\26__Enumerators\26__Enumerators\obj\Debug\net6.0\refint\26__Enumerators.dll
+D:\@First@\C#\26__Enumerators\26__Enumerators\obj\Debug\net6.0\26__Enumerators.pdb
+D:\@First@\C#\26__Enumerators\26__Enumerators\obj\Debug\net6.0\26__Enumerators.genruntimeconfig.cache
+D:\@First@\C#\26__Enumerators\26__Enumerators\obj\Debug\net6.0\ref\26__Enumerators.dll
