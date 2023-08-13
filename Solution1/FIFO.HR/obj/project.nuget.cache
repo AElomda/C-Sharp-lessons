@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "enVB3ReNQQMjYmtbTfjC5RirRFhr+ZTAcV3Ev+co97tssswun5i3AA6w67iL/gwRdQdiHOTBtxev2vQtHzYrFQ==",
+  "dgSpecHash": "l1LSLt/KinnzPOWYtqPXfheZ+6Jpq0djccdAbtZ+aNnL+l7yxZNwqyAaXd3Rv2fgFofjWNoVSXO6YrJPIrYuig==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Solution1\\FIFO.HR\\FIFO.HR.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\elomd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\elomd\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\elomd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\elomd\\Downloads\\My-Github\\C#\\Solution1\\FIFO.HR\\FIFO.HR.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

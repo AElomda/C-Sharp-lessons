@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Solution1\\FIFO.consoleApp2\\FIFO.consoleApp2.csproj",
+      "projectUniqueName": "C:\\Users\\elomd\\Downloads\\My-Github\\C#\\Solution1\\FIFO.consoleApp2\\FIFO.consoleApp2.csproj",
       "projectName": "FIFO.consoleApp2",
-      "projectPath": "D:\\C#\\Solution1\\FIFO.consoleApp2\\FIFO.consoleApp2.csproj",
+      "projectPath": "C:\\Users\\elomd\\Downloads\\My-Github\\C#\\Solution1\\FIFO.consoleApp2\\FIFO.consoleApp2.csproj",
       "packagesPath": "C:\\Users\\elomd\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Solution1\\FIFO.consoleApp2\\obj\\",
+      "outputPath": "C:\\Users\\elomd\\Downloads\\My-Github\\C#\\Solution1\\FIFO.consoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elomd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,30 +56,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.19, 6.0.19]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.19, 6.0.19]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.19, 6.0.19]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.19, 6.0.19]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

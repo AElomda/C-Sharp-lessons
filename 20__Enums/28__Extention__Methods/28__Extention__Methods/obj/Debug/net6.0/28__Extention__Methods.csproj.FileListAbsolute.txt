@@ -1,0 +1,15 @@
+D:\@First@\C#\28__Extention__Methods\28__Extention__Methods\bin\Debug\net6.0\28__Extention__Methods.exe
+D:\@First@\C#\28__Extention__Methods\28__Extention__Methods\bin\Debug\net6.0\28__Extention__Methods.deps.json
+D:\@First@\C#\28__Extention__Methods\28__Extention__Methods\bin\Debug\net6.0\28__Extention__Methods.runtimeconfig.json
+D:\@First@\C#\28__Extention__Methods\28__Extention__Methods\bin\Debug\net6.0\28__Extention__Methods.dll
+D:\@First@\C#\28__Extention__Methods\28__Extention__Methods\bin\Debug\net6.0\28__Extention__Methods.pdb
+D:\@First@\C#\28__Extention__Methods\28__Extention__Methods\obj\Debug\net6.0\28__Extention__Methods.csproj.AssemblyReference.cache
+D:\@First@\C#\28__Extention__Methods\28__Extention__Methods\obj\Debug\net6.0\28__Extention__Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\28__Extention__Methods\28__Extention__Methods\obj\Debug\net6.0\28__Extention__Methods.AssemblyInfoInputs.cache
+D:\@First@\C#\28__Extention__Methods\28__Extention__Methods\obj\Debug\net6.0\28__Extention__Methods.AssemblyInfo.cs
+D:\@First@\C#\28__Extention__Methods\28__Extention__Methods\obj\Debug\net6.0\28__Extention__Methods.csproj.CoreCompileInputs.cache
+D:\@First@\C#\28__Extention__Methods\28__Extention__Methods\obj\Debug\net6.0\28__Extention__Methods.dll
+D:\@First@\C#\28__Extention__Methods\28__Extention__Methods\obj\Debug\net6.0\refint\28__Extention__Methods.dll
+D:\@First@\C#\28__Extention__Methods\28__Extention__Methods\obj\Debug\net6.0\28__Extention__Methods.pdb
+D:\@First@\C#\28__Extention__Methods\28__Extention__Methods\obj\Debug\net6.0\28__Extention__Methods.genruntimeconfig.cache
+D:\@First@\C#\28__Extention__Methods\28__Extention__Methods\obj\Debug\net6.0\ref\28__Extention__Methods.dll

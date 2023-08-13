@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vw7s6z6ReivG4aSMAUeeaJCmRV59HMNLUZlcYcLT+I7ThQghJonNMd0SrTGQANMwZdEGMpK/Shc9mALhbxRDlA==",
+  "dgSpecHash": "N/Wkh5qw+KVrVA6vIDzMp5n5R8WVnN/KbocomVNrcdTEE04C17ECM9k7B7O0j3tZs2E034789HiZVHnBhZQf3w==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Solution1\\FIFO.consoleApp2\\FIFO.consoleApp2.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\elomd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\elomd\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\elomd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\elomd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\elomd\\Downloads\\My-Github\\C#\\Solution1\\FIFO.consoleApp2\\FIFO.consoleApp2.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
