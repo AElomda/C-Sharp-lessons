@@ -1,0 +1,12 @@
+D:\@First@\C#\29__Assemblies\DemoLib\bin\Debug\net6.0\DemoLib.deps.json
+D:\@First@\C#\29__Assemblies\DemoLib\bin\Debug\net6.0\DemoLib.dll
+D:\@First@\C#\29__Assemblies\DemoLib\bin\Debug\net6.0\DemoLib.pdb
+D:\@First@\C#\29__Assemblies\DemoLib\obj\Debug\net6.0\DemoLib.csproj.AssemblyReference.cache
+D:\@First@\C#\29__Assemblies\DemoLib\obj\Debug\net6.0\DemoLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\29__Assemblies\DemoLib\obj\Debug\net6.0\DemoLib.AssemblyInfoInputs.cache
+D:\@First@\C#\29__Assemblies\DemoLib\obj\Debug\net6.0\DemoLib.AssemblyInfo.cs
+D:\@First@\C#\29__Assemblies\DemoLib\obj\Debug\net6.0\DemoLib.csproj.CoreCompileInputs.cache
+D:\@First@\C#\29__Assemblies\DemoLib\obj\Debug\net6.0\DemoLib.dll
+D:\@First@\C#\29__Assemblies\DemoLib\obj\Debug\net6.0\refint\DemoLib.dll
+D:\@First@\C#\29__Assemblies\DemoLib\obj\Debug\net6.0\DemoLib.pdb
+D:\@First@\C#\29__Assemblies\DemoLib\obj\Debug\net6.0\ref\DemoLib.dll
