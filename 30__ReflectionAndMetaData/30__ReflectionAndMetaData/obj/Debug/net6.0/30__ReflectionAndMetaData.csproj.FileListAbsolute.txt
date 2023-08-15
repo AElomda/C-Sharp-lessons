@@ -1,0 +1,15 @@
+D:\@First@\C#\30__ReflectionAndMetaData\30__ReflectionAndMetaData\bin\Debug\net6.0\30__ReflectionAndMetaData.exe
+D:\@First@\C#\30__ReflectionAndMetaData\30__ReflectionAndMetaData\bin\Debug\net6.0\30__ReflectionAndMetaData.deps.json
+D:\@First@\C#\30__ReflectionAndMetaData\30__ReflectionAndMetaData\bin\Debug\net6.0\30__ReflectionAndMetaData.runtimeconfig.json
+D:\@First@\C#\30__ReflectionAndMetaData\30__ReflectionAndMetaData\bin\Debug\net6.0\30__ReflectionAndMetaData.dll
+D:\@First@\C#\30__ReflectionAndMetaData\30__ReflectionAndMetaData\bin\Debug\net6.0\30__ReflectionAndMetaData.pdb
+D:\@First@\C#\30__ReflectionAndMetaData\30__ReflectionAndMetaData\obj\Debug\net6.0\30__ReflectionAndMetaData.csproj.AssemblyReference.cache
+D:\@First@\C#\30__ReflectionAndMetaData\30__ReflectionAndMetaData\obj\Debug\net6.0\30__ReflectionAndMetaData.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\30__ReflectionAndMetaData\30__ReflectionAndMetaData\obj\Debug\net6.0\30__ReflectionAndMetaData.AssemblyInfoInputs.cache
+D:\@First@\C#\30__ReflectionAndMetaData\30__ReflectionAndMetaData\obj\Debug\net6.0\30__ReflectionAndMetaData.AssemblyInfo.cs
+D:\@First@\C#\30__ReflectionAndMetaData\30__ReflectionAndMetaData\obj\Debug\net6.0\30__ReflectionAndMetaData.csproj.CoreCompileInputs.cache
+D:\@First@\C#\30__ReflectionAndMetaData\30__ReflectionAndMetaData\obj\Debug\net6.0\30__ReflectionAndMetaData.dll
+D:\@First@\C#\30__ReflectionAndMetaData\30__ReflectionAndMetaData\obj\Debug\net6.0\refint\30__ReflectionAndMetaData.dll
+D:\@First@\C#\30__ReflectionAndMetaData\30__ReflectionAndMetaData\obj\Debug\net6.0\30__ReflectionAndMetaData.pdb
+D:\@First@\C#\30__ReflectionAndMetaData\30__ReflectionAndMetaData\obj\Debug\net6.0\30__ReflectionAndMetaData.genruntimeconfig.cache
+D:\@First@\C#\30__ReflectionAndMetaData\30__ReflectionAndMetaData\obj\Debug\net6.0\ref\30__ReflectionAndMetaData.dll
