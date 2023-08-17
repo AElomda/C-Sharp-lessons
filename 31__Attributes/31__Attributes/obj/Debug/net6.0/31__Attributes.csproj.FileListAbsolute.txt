@@ -1,0 +1,15 @@
+D:\@First@\C#\31__Attributes\31__Attributes\bin\Debug\net6.0\31__Attributes.exe
+D:\@First@\C#\31__Attributes\31__Attributes\bin\Debug\net6.0\31__Attributes.deps.json
+D:\@First@\C#\31__Attributes\31__Attributes\bin\Debug\net6.0\31__Attributes.runtimeconfig.json
+D:\@First@\C#\31__Attributes\31__Attributes\bin\Debug\net6.0\31__Attributes.dll
+D:\@First@\C#\31__Attributes\31__Attributes\bin\Debug\net6.0\31__Attributes.pdb
+D:\@First@\C#\31__Attributes\31__Attributes\obj\Debug\net6.0\31__Attributes.csproj.AssemblyReference.cache
+D:\@First@\C#\31__Attributes\31__Attributes\obj\Debug\net6.0\31__Attributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\31__Attributes\31__Attributes\obj\Debug\net6.0\31__Attributes.AssemblyInfoInputs.cache
+D:\@First@\C#\31__Attributes\31__Attributes\obj\Debug\net6.0\31__Attributes.AssemblyInfo.cs
+D:\@First@\C#\31__Attributes\31__Attributes\obj\Debug\net6.0\31__Attributes.csproj.CoreCompileInputs.cache
+D:\@First@\C#\31__Attributes\31__Attributes\obj\Debug\net6.0\31__Attributes.dll
+D:\@First@\C#\31__Attributes\31__Attributes\obj\Debug\net6.0\refint\31__Attributes.dll
+D:\@First@\C#\31__Attributes\31__Attributes\obj\Debug\net6.0\31__Attributes.pdb
+D:\@First@\C#\31__Attributes\31__Attributes\obj\Debug\net6.0\31__Attributes.genruntimeconfig.cache
+D:\@First@\C#\31__Attributes\31__Attributes\obj\Debug\net6.0\ref\31__Attributes.dll
