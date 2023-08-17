@@ -1,0 +1,15 @@
+D:\@First@\C#\CollectionsApp\32__ListsAndDictionaries\bin\Debug\net6.0\32__ListsAndDictionaries.exe
+D:\@First@\C#\CollectionsApp\32__ListsAndDictionaries\bin\Debug\net6.0\32__ListsAndDictionaries.deps.json
+D:\@First@\C#\CollectionsApp\32__ListsAndDictionaries\bin\Debug\net6.0\32__ListsAndDictionaries.runtimeconfig.json
+D:\@First@\C#\CollectionsApp\32__ListsAndDictionaries\bin\Debug\net6.0\32__ListsAndDictionaries.dll
+D:\@First@\C#\CollectionsApp\32__ListsAndDictionaries\bin\Debug\net6.0\32__ListsAndDictionaries.pdb
+D:\@First@\C#\CollectionsApp\32__ListsAndDictionaries\obj\Debug\net6.0\32__ListsAndDictionaries.csproj.AssemblyReference.cache
+D:\@First@\C#\CollectionsApp\32__ListsAndDictionaries\obj\Debug\net6.0\32__ListsAndDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\CollectionsApp\32__ListsAndDictionaries\obj\Debug\net6.0\32__ListsAndDictionaries.AssemblyInfoInputs.cache
+D:\@First@\C#\CollectionsApp\32__ListsAndDictionaries\obj\Debug\net6.0\32__ListsAndDictionaries.AssemblyInfo.cs
+D:\@First@\C#\CollectionsApp\32__ListsAndDictionaries\obj\Debug\net6.0\32__ListsAndDictionaries.csproj.CoreCompileInputs.cache
+D:\@First@\C#\CollectionsApp\32__ListsAndDictionaries\obj\Debug\net6.0\32__ListsAndDictionaries.dll
+D:\@First@\C#\CollectionsApp\32__ListsAndDictionaries\obj\Debug\net6.0\refint\32__ListsAndDictionaries.dll
+D:\@First@\C#\CollectionsApp\32__ListsAndDictionaries\obj\Debug\net6.0\32__ListsAndDictionaries.pdb
+D:\@First@\C#\CollectionsApp\32__ListsAndDictionaries\obj\Debug\net6.0\32__ListsAndDictionaries.genruntimeconfig.cache
+D:\@First@\C#\CollectionsApp\32__ListsAndDictionaries\obj\Debug\net6.0\ref\32__ListsAndDictionaries.dll

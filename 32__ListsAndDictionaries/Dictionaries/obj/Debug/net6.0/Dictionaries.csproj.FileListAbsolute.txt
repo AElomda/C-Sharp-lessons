@@ -1,0 +1,15 @@
+D:\@First@\C#\CollectionsApp\Dictionaries\bin\Debug\net6.0\Dictionaries.exe
+D:\@First@\C#\CollectionsApp\Dictionaries\bin\Debug\net6.0\Dictionaries.deps.json
+D:\@First@\C#\CollectionsApp\Dictionaries\bin\Debug\net6.0\Dictionaries.runtimeconfig.json
+D:\@First@\C#\CollectionsApp\Dictionaries\bin\Debug\net6.0\Dictionaries.dll
+D:\@First@\C#\CollectionsApp\Dictionaries\bin\Debug\net6.0\Dictionaries.pdb
+D:\@First@\C#\CollectionsApp\Dictionaries\obj\Debug\net6.0\Dictionaries.csproj.AssemblyReference.cache
+D:\@First@\C#\CollectionsApp\Dictionaries\obj\Debug\net6.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\CollectionsApp\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfoInputs.cache
+D:\@First@\C#\CollectionsApp\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfo.cs
+D:\@First@\C#\CollectionsApp\Dictionaries\obj\Debug\net6.0\Dictionaries.csproj.CoreCompileInputs.cache
+D:\@First@\C#\CollectionsApp\Dictionaries\obj\Debug\net6.0\Dictionaries.dll
+D:\@First@\C#\CollectionsApp\Dictionaries\obj\Debug\net6.0\refint\Dictionaries.dll
+D:\@First@\C#\CollectionsApp\Dictionaries\obj\Debug\net6.0\Dictionaries.pdb
+D:\@First@\C#\CollectionsApp\Dictionaries\obj\Debug\net6.0\Dictionaries.genruntimeconfig.cache
+D:\@First@\C#\CollectionsApp\Dictionaries\obj\Debug\net6.0\ref\Dictionaries.dll
