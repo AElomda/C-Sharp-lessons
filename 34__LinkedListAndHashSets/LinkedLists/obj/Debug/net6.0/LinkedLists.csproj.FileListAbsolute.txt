@@ -1,0 +1,15 @@
+D:\@First@\C#\34__LinkedListAndHashSets\LinkedLists\bin\Debug\net6.0\LinkedLists.exe
+D:\@First@\C#\34__LinkedListAndHashSets\LinkedLists\bin\Debug\net6.0\LinkedLists.deps.json
+D:\@First@\C#\34__LinkedListAndHashSets\LinkedLists\bin\Debug\net6.0\LinkedLists.runtimeconfig.json
+D:\@First@\C#\34__LinkedListAndHashSets\LinkedLists\bin\Debug\net6.0\LinkedLists.dll
+D:\@First@\C#\34__LinkedListAndHashSets\LinkedLists\bin\Debug\net6.0\LinkedLists.pdb
+D:\@First@\C#\34__LinkedListAndHashSets\LinkedLists\obj\Debug\net6.0\LinkedLists.csproj.AssemblyReference.cache
+D:\@First@\C#\34__LinkedListAndHashSets\LinkedLists\obj\Debug\net6.0\LinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\34__LinkedListAndHashSets\LinkedLists\obj\Debug\net6.0\LinkedLists.AssemblyInfoInputs.cache
+D:\@First@\C#\34__LinkedListAndHashSets\LinkedLists\obj\Debug\net6.0\LinkedLists.AssemblyInfo.cs
+D:\@First@\C#\34__LinkedListAndHashSets\LinkedLists\obj\Debug\net6.0\LinkedLists.csproj.CoreCompileInputs.cache
+D:\@First@\C#\34__LinkedListAndHashSets\LinkedLists\obj\Debug\net6.0\LinkedLists.dll
+D:\@First@\C#\34__LinkedListAndHashSets\LinkedLists\obj\Debug\net6.0\refint\LinkedLists.dll
+D:\@First@\C#\34__LinkedListAndHashSets\LinkedLists\obj\Debug\net6.0\LinkedLists.pdb
+D:\@First@\C#\34__LinkedListAndHashSets\LinkedLists\obj\Debug\net6.0\LinkedLists.genruntimeconfig.cache
+D:\@First@\C#\34__LinkedListAndHashSets\LinkedLists\obj\Debug\net6.0\ref\LinkedLists.dll
